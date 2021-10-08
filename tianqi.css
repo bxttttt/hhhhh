@@ -1,0 +1,65 @@
+.title {
+  color: rgb(134, 150, 167);
+  font-size: 80px;
+  width: 800px;
+  height: 80px;
+  float: left;
+  font-family: fangsong;
+}
+
+.showtime {
+  height: 80px;
+  font-size: 40px;
+  padding-top: 20px;
+  color: rgb(134, 150, 167);
+  float: left;
+  clear: both;
+  font-family: fangsong;
+}
+.div2 {
+  height: 60px;
+  width: 350px;
+  clear: both;
+  font-size: 50px;
+  color: rgb(156, 168, 184);
+  float: left;
+  font-family: fangsong;
+}
+.div3 {
+  height: 60px;
+  float: left;
+  padding-top: 55px;
+  width: calc(100%-230px);
+}
+.input1 {
+  height: 30px;
+  width: 200px;
+}
+.button1 {
+  padding-left: 15px;
+  height: 40px;
+  color: white;
+  font-size: 20px;
+  background-color: rgb(156, 168, 184);
+  font-family: fangsong;
+}
+.div4 {
+  clear: both;
+  float: left;
+  color: rgb(156, 168, 184);
+  width: 300px;
+}
+.div5 {
+  clear: both;
+  color: rgb(134, 150, 167);
+  font-size: 30px;
+  font-family: fangsong;
+  float: left;
+  width: 400px;
+}
+.div6 {
+  clear: both;
+  float: left;
+  font-size: 30px;
+  width: 400px;
+}
